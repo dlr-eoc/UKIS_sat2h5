@@ -1,0 +1,11 @@
+name: ukis_sat2h5
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pre-commit
+  - h5py
+  - rasterio
+  - dask
+  - tqdm
